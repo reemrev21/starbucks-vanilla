@@ -1,5 +1,5 @@
 # starbucks-vanilla
-[DEMO] (https://dazzling-williams-d8be60.netlify.app/)
+[DEMO](https://dazzling-williams-d8be60.netlify.app/)
 ## 오픈 그래프
 웹 페이지가 소셜 미디어로 공유될 때 우선적으로 활용되는 정보를 지정하는 것이다. 
 ## 트위터 카드 
